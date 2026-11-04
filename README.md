@@ -8,3 +8,14 @@ Eu escolhi esse tema pois me interessa mas mesmo depois de pesquisar sobre ainda
 
 Decidi fazer mais uma página no site para falar sobre a esteganografia visto que é acessível de forma rápida e fácia para todos e que uma reunião/ espaço de uma aula iria prejudicar o professor.
 
+
+Após a segunda reunião sobre o Aluno Tutor não ocorrer a professora responsável pelo projeto na UniFil recomendou que fossem feita reuniões pela plataforma Google Meet para compartilhar o nosso conteúdo produzido, portanto me reuni com meus colegas de classe para apresentarmos e compartilharmos o que cada um produziu
+
+como dito anteriormente falei brevemente sobre a esteganografia utilizando também as imagens 
+
+O meu colega Lucas Bueno apresentou sobre POO, programação orientada a objetos, que utiliza os objetos que possuem atributos como no mundo real, que podem ser reutilizados
+
+Outro colega Willian Kenzo falou sobre portas lógicas, um conceito da matemática que pode ser usado na computação para realizar comparações básicas como as conjunções da lingua portuguesa, o operador (como são chamados) E precisa de todos sinais positivos do sistema para que a porta seja positiva, como no portugues no qual uma afirmação com a conjunção E só é positiva quando ambas as afirmações são verdadeiras.
+
+
+Tudo isso pode ser encontrado no [https://sites.google.com/d/1q_JNLnxWgxJ_-6BcYgG5Q1XieeFSef4u/p/17ETW41nFNJkUwdnVgVb6u6SnhbUjJNvK/edit](Sites) da google
